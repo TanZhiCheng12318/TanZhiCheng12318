@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/GEM.png" alt="Cover" width="1000" style="border-radius: 15px;" />
+  <img src="images/GEM.png" alt="Cover" width="800" height="300" style="border-radius: 15px;" />
 </p>
 
 # 👋 Hi there, I'm Zhicheng Tan (谭志成)
