@@ -1,15 +1,8 @@
 <p align="center">
-  <img src="images/GEM.png" alt="Cover" width="1000" style="border-radius: 15px;" />
+  <img src="images/GEM.png" alt="Cover" width="1402" style="border-radius: 15px;" />
 </p>
 
-# Hi there, I'm Zhicheng Tan 🚀
-
-<p align="center">
-  <a href="https://github.com/TanZhiCheng12318">
-    <b>🔧 FPGA Engineer | CV & AI Infra Enthusiast</b>
-  </a>
-</p>
-
+# Hi there, I'm Zhicheng Tan
 ---
 
 <p align="left">
@@ -22,4 +15,4 @@
   <img src="https://img.shields.io/badge/-Linux-FEF08A?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-
+[**FPGA Engineer | CV & AI Infra Enthusiast**](https://github.com/TanZhiCheng12318)
