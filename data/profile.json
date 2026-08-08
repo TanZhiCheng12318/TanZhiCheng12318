@@ -1,0 +1,27 @@
+{
+  "name": "谭志成",
+  "title": "AI Infrastructure Engineer",
+  "education": [
+    {
+      "school": "上海电力大学",
+      "degree": "硕士研究生",
+      "period": "2026 - 2028",
+      "status": "进行中"
+    },
+    {
+      "school": "四川师范大学",
+      "degree": "通信工程 (本科)",
+      "period": "2022 - 2026",
+      "gpa": "3.49/4.0",
+      "status": "已完成"
+    }
+  ],
+  "achievements": [
+    { "level": "国家级", "name": "新一代信息通信技术大赛", "award": "全国一等奖", "year": "2025.10" },
+    { "level": "国家级", "name": "全国大学生电子设计大赛", "award": "全国二等奖", "year": "2025.8" },
+    { "level": "国家级", "name": "蓝桥杯 (FPGA赛道)", "award": "全国二等奖", "year": "2025.4" },
+    { "level": "省级", "name": "TI 杯电子设计大赛", "award": "省一等奖", "year": "" },
+    { "level": "校级", "name": "二等奖学金 x2 · 三等奖学金 x2", "award": "", "year": "" },
+    { "level": "校级", "name": "三好学生 · 优秀共青团员", "award": "", "year": "" }
+  ]
+}
