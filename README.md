@@ -66,12 +66,6 @@
 - 📧 Email: 15913650882@163.com
 - 🐙 GitHub: [TanZhiCheng12318](https://github.com/TanZhiCheng12318)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanZhiCheng12318&label=🛸+VISITORS&color=00d4ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/TanZhiCheng12318?label=🚀+Followers&style=flat-square&color=00d4ff" />
-</p>
 
 <!-- ===== 底部波浪 ===== -->
 <p align="center">
