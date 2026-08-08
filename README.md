@@ -1,12 +1,9 @@
-<!-- ===== 顶部波浪 ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:ff00ff&height=120&section=header" />
 </p>
-
 <p align="center">
   <img src="images/GEM.png" alt="Cover" width="1000" style="border-radius: 15px;" />
 </p>
-
 # Hi there, I'm Zhicheng Tan 🚀
 
 **🔧 FPGA Engineer | CV & AI Infra Enthusiast**
