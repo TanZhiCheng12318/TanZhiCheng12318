@@ -24,9 +24,9 @@
 - 🏫 **Sichuan Normal University** · B.E. in Communication Engineering · GPA 3.51/4.0
 - 💼 **Shanghai Bochu Electronic Technology** · FPGA Hardware R&D Intern
 - 🔧 **FPGA Engineer** | **Computer Vision** | **AI Infrastructure** Enthusiast
-- 🏆 National Champion (x1) · National Runner-up (x2) in Electronics & ICT Competitions
-- 📚 Scholarships: Second-class x2 · Third-class x2
-- 🏅 Merit Student · Outstanding League Member
+- 🏆 **National Champion (x1) · National Runner-up (x2) in Electronics & ICT Competitions**
+- 📚 **Scholarships: Second-class x2 · Third-class x2**
+- 🏅 **Merit Student · Outstanding League Member**
 
 ---
 
