@@ -4,13 +4,7 @@
 
 # Hi there, I'm Zhicheng Tan 🚀
 
----
-
-<p align="center">
-  <a href="https://github.com/TanZhiCheng12318">
-    <b>🔧 FPGA Engineer | CV & AI Infra Enthusiast</b>
-  </a>
-</p>
+**🔧 FPGA Engineer | CV & AI Infra Enthusiast**
 
 <p align="left">
   <img src="https://img.shields.io/badge/-FPGA-005571?style=flat-square&logo=fpga&logoColor=white" /> 
@@ -26,8 +20,9 @@
 
 ## 🎓 About Me
 
-- 🎓 **Shanghai University of Electric Power** · Master's Student (2026-)
-- 🏫 **Sichuan Normal University** · B.E. in Communication Engineering · GPA 3.49/4.0
+- 🎓 **Shanghai University of Electric Power** · M.S. in Information and Communication Engineering (2026–)
+- 🏫 **Sichuan Normal University** · B.E. in Communication Engineering · GPA 3.51/4.0
+- 💼 **Shanghai Bochu Electronic Technology** · FPGA Hardware R&D Intern
 - 🔧 **FPGA Engineer** | **Computer Vision** | **AI Infrastructure** Enthusiast
 - 🏆 National Champion (x1) · National Runner-up (x2) in Electronics & ICT Competitions
 - 📚 Scholarships: Second-class x2 · Third-class x2
@@ -55,22 +50,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🔬 **Unknown Circuit Model Detection Platform** · TI Cup (Provincial First Prize)  
-  FPGA + DSP based real-time measurement and equivalent reconstruction of unknown circuit systems. Adaptive filtering algorithms, real-time spectrum analysis, PCB design.
-
-- 📷 **Real-time Image Acquisition & Processing System** · FPGA Training  
-  OV5640 + FPGA based image acquisition, grayscale/binarization processing, UDP/ARP ethernet transmission.
-
-- 🎙️ **Voice Storage & Playback System** · Chuangkesheng Cup (Second Prize)  
-  STM32F4 based voice acquisition, storage and playback with Flash memory management.
-
-- ⚡ **LLM Inference Acceleration** · Research in Progress  
-  Exploring vLLM, TensorRT-LLM, llama.cpp, model quantization (GPTQ/AWQ) and heterogeneous computing for AI inference.
-
----
-
 ## 🎯 Current Focus
 
 > Building high-performance, scalable **AI Inference Infrastructure** · Full-stack optimization across hardware and software · FPGA + CUDA + Distributed Inference
@@ -79,7 +58,7 @@
 
 ## 📫 Connect
 
-- 📧 Email: 2256136209@qq.com
+- 📧 Email: 15913650882@163.com
 - 🐙 GitHub: [TanZhiCheng12318](https://github.com/TanZhiCheng12318)
 
 ---
