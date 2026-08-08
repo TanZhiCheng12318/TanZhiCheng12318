@@ -1,6 +1,6 @@
-<!-- ===== 顶部动态霓虹图 ===== -->
+<!-- ===== 顶部波浪 ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1500&pause=800&center=true&vCenter=true&width=800&lines=⚡+SYSTEM+ONLINE;🚀+FPGA+%7C+CV+%7C+AI+Infra;🔥+Hardware+%2B+Software+Full-Stack" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:ff00ff&height=120&section=header" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/github/followers/TanZhiCheng12318?label=🚀+Followers&style=flat-square&color=00d4ff" />
 </p>
 
-<!-- ===== 底部动态霓虹图 ===== -->
+<!-- ===== 底部波浪 ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=2000&pause=800&center=true&vCenter=true&width=700&lines=🚀+FPGA+%2B+CV+%2B+AI+Infra+%3D+%3CThe+Future%2F%3E;🔥+Building+Scalable+AI+Inference+Infrastructure;⚡+Hardware-Software+Co-Design+%7C+Heterogeneous+Computing" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00d4ff&height=120&section=footer" />
 </p>
