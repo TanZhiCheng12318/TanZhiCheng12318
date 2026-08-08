@@ -62,8 +62,7 @@
 - 🐙 GitHub: [TanZhiCheng12318](https://github.com/TanZhiCheng12318)
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanZhiCheng12318&label=🛸+VISITORS&color=00d4ff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/TanZhiCheng12318?label=🚀+Followers&style=flat-square&color=00d4ff" />
+  <img src="https://img.shields.io/github/followers/TanZhiCheng12318?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/TanZhiCheng12318?label=Stars&style=social" />
 </p>
