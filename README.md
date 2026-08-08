@@ -16,3 +16,6 @@
 </p>
 
 [**FPGA Engineer | CV & AI Infra Enthusiast**](https://github.com/TanZhiCheng12318)
+<p align="center">
+  <img src="images/achievements-card.png" alt="Achievements Card" width="900"/>
+</p>
